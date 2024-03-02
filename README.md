@@ -1,4 +1,4 @@
-# JS-плагин для интеграции функций модуля BoxberryDelivery на страницу чекаута PrestaShop
+# JS-плагин для интеграции модуля BoxberryDelivery со страницей чекаута PrestaShop
 
 ## О JS-плагине
 Этот JS-плагин модуля [Доставка с помощью Boxberry](https://prestashop.modulez.ru/ru/shipping-and-pickup/34-delivery-by-boxberry.html).
